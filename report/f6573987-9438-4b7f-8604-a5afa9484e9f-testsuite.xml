@@ -1,0 +1,42 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1571899175603" stop="1571899301470">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1571899175603" status="passed" stop="1571899233698">
+      <name>TestLogin.test_login[17744560055-Didi911221]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1028-MainThread"/>
+        <label name="host" value="DESKTOP-IU61HF1"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1571899233708" status="passed" stop="1571899262593">
+      <name>TestLogin.test_login[17744560053-Didi]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1028-MainThread"/>
+        <label name="host" value="DESKTOP-IU61HF1"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1571899262595" status="passed" stop="1571899301470">
+      <name>TestLogin.test_login[17744560053-Didi911221]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1028-MainThread"/>
+        <label name="host" value="DESKTOP-IU61HF1"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
